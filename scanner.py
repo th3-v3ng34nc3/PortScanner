@@ -1,4 +1,7 @@
 #!/bin/python
+#python3 scanner.py 10.10.10.15
+#Author : Aditya Raj
+#Date : 18/04/2022
 import sys
 import socket
 from datetime import datetime
